@@ -25,9 +25,4 @@ In other words, a user with specific demographic characteristics may have made m
 ###### Age: Age of the customer
 
 
-[![Before the Application](//Users/yagizkarakaya/Desktop/Screenshot 2023-02-12 at 12.49.01.png)]
-
-
-
-[![After the Application](//Users/yagizkarakaya/Desktop/Screenshot 2023-02-12 at 12.49.27.png)]
 
